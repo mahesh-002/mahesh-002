@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-002&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-002" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://maheshwaran.vercel.app/](https://maheshwaran.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://maheshwaran-profile.vercel.app/](https://maheshwaran-profile.vercel.app/)
 
 - 📫 How to reach me **dmmahesh002@outlook.com**
 
-- 📄 Know about my experiences [https://maheshwaran.vercel.app/assets/Maheshwaran_M_Resume.pdf](https://maheshwaran.vercel.app/assets/Maheshwaran_M_Resume.pdf)
+- 📄 Know about my experiences [https://leetcode.com/u/mahesh-002/](https://leetcode.com/u/mahesh-002/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

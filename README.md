@@ -36,15 +36,18 @@
 
 ## About Me
 
-I'm Maheshwaran M, focused on **Agentic AI, LLM Engineering, and AI Application Development**.
+I'm Maheshwaran M, focused on **Agentic AI, LLM Engineering, AI Application Development, and AI Systems Engineering**.
 
-I'm interested in turning AI capabilities into practical applications through intelligent workflows, language models, machine learning, and modern software engineering.
+I'm interested in turning AI capabilities into practical applications through intelligent workflows, language models, multi-agent systems, and modern software engineering. My focus is on connecting AI capabilities with reliable APIs, databases, backend services, and deployment infrastructure.
 
-- 🤖 Exploring agentic AI systems and intelligent workflows
+- 🤖 Exploring agentic AI systems, intelligent workflows, and multi-agent architectures
 - 🧠 Developing foundations in machine learning and deep learning
-- 💬 Exploring large language models and natural language processing
-- ⚙️ Building AI-powered applications and automation solutions
-- ☁️ Learning about cloud deployment and AI productivity tools
+- 💬 Building knowledge around LLM-powered applications, RAG, and tool calling
+- 🔗 Exploring MCP, A2A, LangGraph, and agent orchestration
+- 🧠 Working with AI memory, context management, and retrieval systems
+- ⚙️ Connecting AI applications with FastAPI, REST APIs, and structured data
+- 🗄️ Exploring databases, Supabase, and backend architecture
+- ☁️ Learning Docker, cloud deployment, and CI/CD workflows
 
 ---
 
@@ -57,8 +60,9 @@ I'm interested in turning AI capabilities into practical applications through in
       <p>
         <img src="https://img.shields.io/badge/Python-Foundations-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/SQL-Data%20Handling-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/JSON-Data%20Format-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
       </p>
-      <p>Python foundations, data handling, and SQL concepts.</p>
+      <p>Python foundations, SQL, JSON, structured data, and data handling concepts.</p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · Machine Learning</h3>
@@ -66,7 +70,7 @@ I'm interested in turning AI capabilities into practical applications through in
         <img src="https://img.shields.io/badge/ML-Core%20Concepts-7C3AED?style=flat-square" alt="Machine Learning"/>
         <img src="https://img.shields.io/badge/Deep-Learning-9333EA?style=flat-square" alt="Deep Learning"/>
       </p>
-      <p>Machine learning fundamentals and deep learning concepts.</p>
+      <p>Machine learning fundamentals, deep learning concepts, and AI foundations.</p>
     </td>
   </tr>
   <tr>
@@ -75,34 +79,72 @@ I'm interested in turning AI capabilities into practical applications through in
       <p>
         <img src="https://img.shields.io/badge/Computer-Vision-0891B2?style=flat-square" alt="Computer Vision"/>
         <img src="https://img.shields.io/badge/Natural-Language%20Processing-0F766E?style=flat-square" alt="NLP"/>
+        <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0F766E?style=flat-square" alt="RAG"/>
       </p>
-      <p>Computer vision and natural language processing.</p>
+      <p>Computer vision, natural language processing, retrieval-augmented generation, and context-aware AI applications.</p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · LLM & Agentic AI</h3>
       <p>
         <img src="https://img.shields.io/badge/LLM-Engineering-6D28D9?style=flat-square" alt="LLM Engineering"/>
         <img src="https://img.shields.io/badge/Agentic-AI-EA580C?style=flat-square" alt="Agentic AI"/>
+        <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=flat-square" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-2563EB?style=flat-square" alt="MCP"/>
+        <img src="https://img.shields.io/badge/A2A-Agent%20to%20Agent-7C3AED?style=flat-square" alt="A2A"/>
       </p>
-      <p>LLM engineering, agentic systems, and AI application development.</p>
+      <p>LLM-powered applications, agentic workflows, tool calling, memory, MCP, A2A, LangGraph, and multi-agent systems.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>05 · Enterprise AI</h3>
+      <h3>05 · Backend & AI Systems Engineering</h3>
       <p>
-        <img src="https://img.shields.io/badge/Enterprise-AI-1D4ED8?style=flat-square" alt="Enterprise AI"/>
-        <img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=flat-square" alt="AI Applications"/>
+        <img src="https://img.shields.io/badge/FastAPI-Backend%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/REST-APIs-2563EB?style=flat-square" alt="REST APIs"/>
+        <img src="https://img.shields.io/badge/JSON-Schema-000000?style=flat-square&logo=json&logoColor=white" alt="JSON Schema"/>
       </p>
-      <p>Enterprise AI projects and practical AI-powered solutions.</p>
+      <p>Backend services, REST API integration, JSON Schema validation, application architecture, and AI system development.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>06 · Deployment & Productivity</h3>
+      <h3>06 · Databases, Deployment & DevOps</h3>
       <p>
-        <img src="https://img.shields.io/badge/Cloud-Deployment-0284C7?style=flat-square" alt="Cloud Deployment"/>
-        <img src="https://img.shields.io/badge/AI-Productivity-0F766E?style=flat-square" alt="AI Productivity"/>
+        <img src="https://img.shields.io/badge/Databases-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="Databases"/>
+        <img src="https://img.shields.io/badge/Supabase-Backend-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
       </p>
-      <p>Cloud deployment concepts and AI productivity tools.</p>
+      <p>Database integration, Supabase, Docker containerization, cloud deployment, CI/CD pipelines, and application delivery.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Agentic AI & System Development
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic Workflows</h3>
+      <ul>
+        <li>LLM-driven workflow orchestration</li>
+        <li>Tool calling and external integrations</li>
+        <li>Memory and context management</li>
+        <li>Multi-agent coordination</li>
+        <li>MCP and A2A communication patterns</li>
+        <li>LangGraph-based workflow design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ AI Application Engineering</h3>
+      <ul>
+        <li>LLM-powered applications</li>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>FastAPI and REST API development</li>
+        <li>JSON Schema and structured outputs</li>
+        <li>Database and Supabase integration</li>
+        <li>Docker, cloud deployment, and CI/CD</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -114,16 +156,16 @@ I'm interested in turning AI capabilities into practical applications through in
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🧠 LLMs</h3>
-      <sub>Language models and AI application engineering</sub>
+      <h3>🧠 LLM Engineering</h3>
+      <sub>Language models, RAG, memory, structured outputs, and tool calling</sub>
     </td>
     <td align="center" width="33%">
-      <h3>🤖 Agents</h3>
-      <sub>Tool use, workflows, and intelligent automation</sub>
+      <h3>🤖 Agentic Systems</h3>
+      <sub>MCP, A2A, LangGraph, agent orchestration, and multi-agent workflows</sub>
     </td>
     <td align="center" width="33%">
-      <h3>☁️ Deployment</h3>
-      <sub>Making AI applications usable and accessible</sub>
+      <h3>☁️ AI Deployment</h3>
+      <sub>FastAPI, databases, Supabase, Docker, cloud deployment, and CI/CD</sub>
     </td>
   </tr>
 </table>
